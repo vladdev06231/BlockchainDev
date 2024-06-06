@@ -15,12 +15,14 @@
 ###
 <div align="left">
   <h3>Smart Contract Language:</h3>
+  <div style={display: flex}>
   <span>
   <h4>Solidity</h4><img src="https://soliditylang.org/assets/solidity-app-icon-192.png" height="40" alt="solidity logo"  />
   </span>
   <span>
   <h4>Rust</h4><img src="https://www.rust-lang.org/static/images/rust-logo-blk.svg" height="40" alt="c logo"  />
   </span>
+  </div>
 </div>
 <div align="left">
   <h3>Framworks:</h3>
