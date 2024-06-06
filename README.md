@@ -15,7 +15,7 @@
 ###
 <div align="left">
   <h3>Smart Contract Language:</h3>
-  <div style={display: "flex"}>
+  <div style="display: flex">
   <span>
   <h4>Solidity</h4><img src="https://soliditylang.org/assets/solidity-app-icon-192.png" height="40" alt="solidity logo"  />
   </span>
@@ -26,12 +26,14 @@
 </div>
 <div align="left">
   <h3>Framworks:</h3>
+  <div style="display: flex">
   <span>
   <h4>Anchor</h4><img src="https://www.anchor-lang.com/favicon.ico" height="40" alt="anchor logo"  />
   </span>
   <span>
   <h4>Move</h4><img src="" height="40" alt="Move logo"  />
   </span>
+  </div>
 </div>
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="c logo"  />
