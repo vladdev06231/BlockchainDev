@@ -20,8 +20,8 @@
 </div>
 <div align="left">
   <h3>Framworks:</h3>
-  <h4>Anchor</h4>
-  <h4>Move</h4>
+  <h4>Anchor</h4><img src="https://www.anchor-lang.com/favicon.ico" height="40" alt="anchor logo"  />
+  <h4>Move</h4><img src="https://www.anchor-lang.com/favicon.ico" height="40" alt="Move logo"  />
 </div>
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="c logo"  />
