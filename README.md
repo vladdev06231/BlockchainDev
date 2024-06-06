@@ -15,7 +15,7 @@
 ###
 <div align="left">
   <h3>Smart Contract Language:</h3>
-  <div style={display: flex}>
+  <div style={display: "flex"}>
   <span>
   <h4>Solidity</h4><img src="https://soliditylang.org/assets/solidity-app-icon-192.png" height="40" alt="solidity logo"  />
   </span>
